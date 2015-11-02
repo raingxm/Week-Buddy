@@ -1,4 +1,29 @@
-﻿# Week2
+﻿# Week3
+
+
+### This week:
+
+1. 安装各类插件并学会使用：
+    a.切图辅助：perfectpixel
+    b.编写HTML神器：emmet
+    c.查看github目录：Octotree
+    d.吸色：gpic (linux )
+2. 学习html和[css](http://zh.learnlayout.com/)
+3. 按要求完成作业
+4. [linux command line](http://billie66.github.io/TLCL/book/)上周遗留问题！
+5. 了解nodejs
+6. 熟悉gulp基本操作
+7. 完成集合训练营（修复20个Bug）
+
+### Time planning
+
+* 先做到早睡
+
+
+********************
+
+
+# Week2
 
 
 ### This week:
