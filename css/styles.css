@@ -24,3 +24,8 @@ code {
   padding: 0 8px;
   font-family: Consolas, Courier, monospace;
 }
+
+.mark {
+    color: red;
+    margin-left: 10px;
+}
