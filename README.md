@@ -25,21 +25,17 @@
 
 ### This week:
 
-<<<<<<< HEAD
-1. 安装各类插件并学会使用:  a.切图辅助：perfectpixel   b.编写HTML神器：emmet  c.查看github目录：Octotree  d.吸色：gpic (linux )
-=======
-1. 安装各类插件并学会使用：&#10004;</span>
+1. 安装各类插件并学会使用：<span class="finish mark">&#10004;</span>
     * 切图辅助：perfectpixel
     * 编写HTML神器：emmet
     * 查看github目录：Octotree
     * 吸色：gpic (linux )
->>>>>>> d8431f6b0db8eabc37421d6cbb2d9018bf2b5c90
-2. 学习html和[css](http://zh.learnlayout.com/)&#10004;</span>
+2. 学习html和[css](http://zh.learnlayout.com/)<span class="finish mark">&#10004;</span>
 3. 按要求完成作业&#10004;</span>
-4. [linux command line](http://billie66.github.io/TLCL/book/)上周遗留问题！&#10007;</span>
-5. 了解nodejs&#10007;</span>
-6. 熟悉gulp基本操作&#10007;</span>
-7. 完成集合训练营（修复20个Bug)&#10007;</span>
+4. [linux command line](http://billie66.github.io/TLCL/book/)上周遗留问题！<span class="finish mark">&#10007;</span>
+5. 了解nodejs<span class="finish mark">&#10007;</span>
+6. 熟悉gulp基本操作<span class="finish mark">&#10007;</span>
+7. 完成集合训练营（修复20个Bug)<span class="finish mark">&#10007;</span>
 
 ### Time planning:
 
