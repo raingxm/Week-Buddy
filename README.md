@@ -31,7 +31,7 @@
     * 查看github目录：Octotree
     * 吸色：gpic (linux )
 2. 学习html和[css](http://zh.learnlayout.com/)<span class="finish mark">&#10004;</span>
-3. 按要求完成作业&#10004;</span>
+3. 按要求完成作业<span class="finish mark">&#10004;</span>
 4. [linux command line](http://billie66.github.io/TLCL/book/)上周遗留问题！<span class="finish mark">&#10007;</span>
 5. 了解nodejs<span class="finish mark">&#10007;</span>
 6. 熟悉gulp基本操作<span class="finish mark">&#10007;</span>
